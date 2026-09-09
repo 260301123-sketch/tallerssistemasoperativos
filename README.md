@@ -10,7 +10,7 @@ Explico como teniamos que instalar virtual voz y alguna extensión de linux
 El profe nos explico los tipos de comandos los absolutoa y los relativos
 
 # CLASE 4
-Nos preguntó sobre alguna noticia y sobre algunos de muchos comandos que hay 
+Nos preguntó sobre alguna noticia y explico sobre algunos de muchos comandos que hay 
 
 # CLASE 5
 No tuvimos clase 
