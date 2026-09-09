@@ -1,4 +1,4 @@
-# tallerssistemasoperativos
+# SISTEMAS OPERATIVOS
 
 # CLASE 1
 ese día el profe hablo acerca de cómo íbamos a trabajar todo el semestre y explico ciertos temas.
