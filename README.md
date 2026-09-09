@@ -18,5 +18,5 @@ No tuvimos clase
 # CLASE 6
 Hicimos tarea
 
-# CLASE 7
+# CLASE 7 Y 8
 Igual hicimos las tareas que dejo en discord
